@@ -1,2 +1,2 @@
 # vptcdn
-VPThemes files
+VPThemes files CDN (Content Delivery Network)
