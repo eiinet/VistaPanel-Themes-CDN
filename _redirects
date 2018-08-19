@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://vptcdn.netlify.com/* https://cdn.vpthemes.win/:splat 301!
